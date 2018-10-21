@@ -196,7 +196,7 @@ textarea {
 input[type=submit] {
     background: rgb(235, 235, 235);
     border: 0 none;
-    color: #ffffff;
+    color: black;
     font-size: 18px;
     padding: 10px 30px;
 }
