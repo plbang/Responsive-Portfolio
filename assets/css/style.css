@@ -94,6 +94,7 @@ nav a {
     border-left: 1px solid #cccccc;
     padding-left: 15px;
     line-height: 18px;
+    text-decoration: none;
 }
 
 nav a:first-child {
@@ -145,7 +146,6 @@ footer {
 .work img {
     width: 100%;
     border: 0 none;
-    opacity: 1;
 }
 
 .work h3 {
@@ -155,11 +155,11 @@ footer {
     text-align: center;
     bottom: 1px;
     position: absolute;
-    margin-bottom: 0x;
+    margin-bottom: 0;
     padding: 15px;
     width: 100%;
     line-height: 30px;
-    opacity: .7;
+    opacity: .90;
 }
 
 /* contact page */
